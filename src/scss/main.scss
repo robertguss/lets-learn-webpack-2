@@ -1,5 +1,11 @@
 $red: #ff0000;
 
 body {
-  background: $red;
+  // background: $red;
 }
+
+p {
+  display: flex;
+  font-size: responsive;
+}
+

@@ -15,13 +15,22 @@
   "author": "Robert Guss - www.howtocode.io, www.robertguss.com",
   "license": "MIT",
   "devDependencies": {
+    "autoprefixer": "^7.1.2",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
     "css-loader": "^0.28.5",
+    "cssnano": "^3.10.0",
+    "lost": "^8.2.0",
     "node-sass": "^4.5.3",
+    "postcss-loader": "^2.0.6",
+    "rucksack-css": "^1.0.2",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
     "webpack": "^3.5.5"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }
