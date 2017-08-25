@@ -29,3 +29,6 @@ PostCSS with Webpack
 
 Exporting CSS to a seperate file
   - [Extract Text Webpack Plugin](https://webpack.js.org/plugins/extract-text-webpack-plugin/)
+
+Source Maps
+  - [Source Maps](https://webpack.js.org/guides/development/#using-source-maps)
