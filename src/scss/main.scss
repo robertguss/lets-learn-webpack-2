@@ -1,11 +1,8 @@
-$red: #ff0000;
+@import 'variables';
 
 body {
-  // background: $red;
+  background: $red;
 }
 
-p {
-  display: flex;
-  font-size: responsive;
-}
+
 
