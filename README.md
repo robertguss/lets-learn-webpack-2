@@ -24,7 +24,7 @@ PostCSS with Webpack
   - [Autoprefixer](https://github.com/postcss/autoprefixer)
   - [Autoprefixer Browserslist](https://github.com/ai/browserslist#queries)
   - [Rucksack](https://www.rucksackcss.org/)
-  - [Lost](http://lostgrid.org/),
+  - [Lost](http://lostgrid.org/)
   - [CSS Nano](http://cssnano.co/)
 
 Exporting CSS to a seperate file
