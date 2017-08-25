@@ -65,10 +65,42 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-console.log('Hello from Webpack');
+"use strict";
 
+
+var _module = __webpack_require__(1);
+
+(0, _module.hello)(); // import './css/main.css';
+// import './scss/main.scss';
+
+(0, _module.sup)();
+
+/***/ }),
+/* 1 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+// export default function hello() {
+//   console.log('Hello from JS Module');
+// }
+
+function hello() {
+  console.log('Hello from JS Module');
+}
+
+function sup() {
+  console.log('What up from sup()');
+}
+
+exports.hello = hello;
+exports.sup = sup;
 
 /***/ })
 /******/ ]);
