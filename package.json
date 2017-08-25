@@ -1,0 +1,19 @@
+{
+  "name": "lets-learn-webpack-2",
+  "version": "1.0.0",
+  "description": "A [HowToCode.io](https://www.howtocode.io) tutorial on learning [Webpack 2](https://webpack.js.org)",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@howtocode.github.com:howtocodeio/lets-learn-webpack-2.git"
+  },
+  "keywords": [],
+  "author": "Robert Guss - www.howtocode.io, www.robertguss.com",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
