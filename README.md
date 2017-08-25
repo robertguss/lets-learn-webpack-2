@@ -1,4 +1,4 @@
-![What is Webpack](https://raw.githubusercontent.com/howtocodeio/lets-learn-webpack-2/master/what-is-webpack.png)
+![What is Webpack](https://raw.githubusercontent.com/howtocodeio/lets-learn-webpack-2/master/hero.png)
 
 # Let's Learn Webpack 2
 
