@@ -35,3 +35,10 @@ Source Maps
 
 Multiple Bundles
   - [Multiple Bundles](https://webpack.js.org/guides/output-management/)
+
+Dev Server
+  - [Webpack Dev Server](https://webpack.js.org/guides/development/#using-webpack-dev-server)
+
+BrowserSync
+  - [Browser Sync](https://www.browsersync.io/)
+  - [Browser Sync Webpack Plugin](https://github.com/Va1/browser-sync-webpack-plugin)
