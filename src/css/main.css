@@ -1,3 +1,8 @@
 body {
-  // background: green;
+  /*background: green;*/
+}
+
+p {
+  display: flex;
+  font-size: responsive;
 }
